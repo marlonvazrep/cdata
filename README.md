@@ -12,8 +12,10 @@ Insert image into other image
 Cut image
     https://pyimagesearch.com/2020/07/27/opencv-grabcut-foreground-segmentation-and-extraction/
     
+Salt and pepper - noise Guassian
+    https://www.codestudyblog.com/cs2201py/40113003951.html
+    
 Link to ours the image dataset
-
-https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
+    https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
 
 
