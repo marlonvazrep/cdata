@@ -1,4 +1,4 @@
-# Article_2022
+# Concise Dataset (C-Dat)
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
 References used in the python codes
