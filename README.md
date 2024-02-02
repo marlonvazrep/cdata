@@ -15,7 +15,7 @@ Cut image
 Salt and pepper - noise Guassian
     https://www.codestudyblog.com/cs2201py/40113003951.html
     
-Link to ours the image dataset
+Link to C-Dat image dataset
     https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
 
 
