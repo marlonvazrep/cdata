@@ -1,6 +1,9 @@
 # Concise Dataset (C-Dat)
 This repository keep the algorithms to data generate used in the article. Also contain the link to the created dataset  to this project
 
+Link to C-Dat image dataset
+    https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
+
 References used in python scripts
 
 Brightness
@@ -14,8 +17,3 @@ Cut image
     
 Salt and pepper - noise Guassian
     https://www.codestudyblog.com/cs2201py/40113003951.html
-    
-Link to C-Dat image dataset
-    https://drive.google.com/drive/folders/16rweFz7Zzg56k_bXkrhuUCqDJPSrg-S9?usp=sharing
-
-
